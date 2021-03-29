@@ -1,0 +1,16 @@
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\ConsolePetShop\bin\Debug\netcoreapp3.1\ConsolePetShop.exe
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\ConsolePetShop\bin\Debug\netcoreapp3.1\ConsolePetShop.deps.json
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\ConsolePetShop\bin\Debug\netcoreapp3.1\ConsolePetShop.runtimeconfig.json
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\ConsolePetShop\bin\Debug\netcoreapp3.1\ConsolePetShop.runtimeconfig.dev.json
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\ConsolePetShop\bin\Debug\netcoreapp3.1\ConsolePetShop.dll
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\ConsolePetShop\bin\Debug\netcoreapp3.1\ConsolePetShop.pdb
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\ConsolePetShop\bin\Debug\netcoreapp3.1\PetClassLibrary.dll
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\ConsolePetShop\bin\Debug\netcoreapp3.1\PetClassLibrary.pdb
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\ConsolePetShop\obj\Debug\netcoreapp3.1\ConsolePetShop.csprojAssemblyReference.cache
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\ConsolePetShop\obj\Debug\netcoreapp3.1\ConsolePetShop.AssemblyInfoInputs.cache
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\ConsolePetShop\obj\Debug\netcoreapp3.1\ConsolePetShop.AssemblyInfo.cs
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\ConsolePetShop\obj\Debug\netcoreapp3.1\ConsolePetShop.csproj.CoreCompileInputs.cache
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\ConsolePetShop\obj\Debug\netcoreapp3.1\ConsolePetShop.csproj.CopyComplete
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\ConsolePetShop\obj\Debug\netcoreapp3.1\ConsolePetShop.dll
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\ConsolePetShop\obj\Debug\netcoreapp3.1\ConsolePetShop.pdb
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\ConsolePetShop\obj\Debug\netcoreapp3.1\ConsolePetShop.genruntimeconfig.cache

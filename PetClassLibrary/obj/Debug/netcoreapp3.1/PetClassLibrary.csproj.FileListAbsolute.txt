@@ -1,0 +1,9 @@
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\PetClassLibrary\bin\Debug\netcoreapp3.1\PetClassLibrary.deps.json
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\PetClassLibrary\bin\Debug\netcoreapp3.1\PetClassLibrary.dll
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\PetClassLibrary\bin\Debug\netcoreapp3.1\PetClassLibrary.pdb
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\PetClassLibrary\obj\Debug\netcoreapp3.1\PetClassLibrary.csprojAssemblyReference.cache
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\PetClassLibrary\obj\Debug\netcoreapp3.1\PetClassLibrary.AssemblyInfoInputs.cache
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\PetClassLibrary\obj\Debug\netcoreapp3.1\PetClassLibrary.AssemblyInfo.cs
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\PetClassLibrary\obj\Debug\netcoreapp3.1\PetClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\PetClassLibrary\obj\Debug\netcoreapp3.1\PetClassLibrary.dll
+C:\Users\chill\OneDrive - Grand Canyon University\CST117\PetShop\PetClassLibrary\obj\Debug\netcoreapp3.1\PetClassLibrary.pdb
